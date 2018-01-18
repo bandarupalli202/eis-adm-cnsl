@@ -1,0 +1,2 @@
+# eis-adm-cnsl
+eisadmconsole
